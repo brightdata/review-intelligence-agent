@@ -68,6 +68,3 @@ You can customize the analysis by modifying the agent configurations in `review_
 - Modify aspect categories and keywords 📝
 - Configure task parameters and expected outputs 🎛️
 
-## License 📃
-
-[Specify your license here]
